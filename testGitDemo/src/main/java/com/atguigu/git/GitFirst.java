@@ -10,5 +10,7 @@ public class GitFirst {
         System.out.println("发生了紧急bug，需要先去改bug");
         System.out.println("意外发生....");
 
+        System.out.println("修改Bug后...");
+        System.out.println("意外解决完毕");
     }
 }
