@@ -7,5 +7,8 @@ public class GitFirst {
         System.out.println("Git操作02");
         System.out.println("master操作01");
         System.out.println("张三操作01");
+        System.out.println("发生了紧急bug，需要先去改bug");
+        System.out.println("意外发生....");
+
     }
 }
