@@ -7,5 +7,6 @@ public class GitFirst {
         System.out.println("Git操作02");
         System.out.println("master操作01");
         System.out.println("张三操作01");
+        System.out.println("张三操作01");
     }
 }
